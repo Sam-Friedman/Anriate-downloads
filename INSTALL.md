@@ -20,7 +20,7 @@ To update, quit Anriate and replace its copy in Applications. To uninstall, remo
 
 Requires 64-bit Windows 10 or 11 and a compatible graphics driver. Run **windows-x64-setup.exe**. The installer installs for your current user, adds a Start menu shortcut and provides an uninstaller in Windows Settings → Apps. Administrator access is not required.
 
-The beta installer does not have a Windows publisher certificate. Windows may display an unknown-publisher warning. Only install files you trust from the intended release page. Quit the editor before installing an update.
+Quit the editor before installing an update.
 
 ## Linux
 
