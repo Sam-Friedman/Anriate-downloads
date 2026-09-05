@@ -2,19 +2,19 @@
 
 Anriate is a native desktop 3D editor for modeling, animation, rigging and rendering small scenes.
 
-## Get Anriate 0.1.0 beta 2
+## Get Anriate
 
 **[Download installers from Releases](https://github.com/Sam-Friedman/Anriate-downloads/releases)**
 
-Open a release and choose an installer from **Assets**. No Rust installation or source build is required.
+Open the current release and choose an installer from **Assets**. No Rust installation or source build is required.
 
-| Your computer | Choose |
+| Your computer | Asset to choose |
 | --- | --- |
-| Apple Silicon Mac (M1 or newer), macOS 14+ | [Download for Apple Silicon](https://github.com/Sam-Friedman/Anriate-downloads/releases/download/v0.1.0-beta.4/Anriate-0.1.0-beta.4-macos-arm64.dmg) |
-| Intel Mac, macOS 14+ | [Download for Intel Mac](https://github.com/Sam-Friedman/Anriate-downloads/releases/download/v0.1.0-beta.4/Anriate-0.1.0-beta.4-macos-x86_64.dmg) |
-| Windows 10/11, 64-bit | [Download Windows Setup](https://github.com/Sam-Friedman/Anriate-downloads/releases/download/v0.1.0-beta.4/Anriate-0.1.0-beta.4-windows-x64-setup.exe) |
-| Ubuntu 22.04+ or compatible Debian-based Linux, 64-bit | [Download Debian/Ubuntu package](https://github.com/Sam-Friedman/Anriate-downloads/releases/download/v0.1.0-beta.4/Anriate-0.1.0-beta.4-linux-x64.deb) |
-| Other compatible Linux, glibc 2.35+, 64-bit | [Download portable Linux archive](https://github.com/Sam-Friedman/Anriate-downloads/releases/download/v0.1.0-beta.4/Anriate-0.1.0-beta.4-linux-x64.tar.gz) |
+| Apple Silicon Mac (M1 or newer), macOS 14+ | `macos-arm64.dmg` |
+| Intel Mac, macOS 14+ | `macos-x86_64.dmg` |
+| Windows 10/11, 64-bit | `windows-x64-setup.exe` |
+| Ubuntu 22.04+ or compatible Debian-based Linux, 64-bit | `linux-x64.deb` |
+| Other compatible Linux, glibc 2.35+, 64-bit | `linux-x64.tar.gz` |
 
 [Installation instructions](INSTALL.md) explain installation, updates, runtime requirements, optional ffmpeg video export and checksums.
 
