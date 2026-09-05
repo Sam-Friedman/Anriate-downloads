@@ -10,7 +10,9 @@ Requires macOS 14 or newer. Choose **macos-arm64.dmg** for an Apple Silicon Mac 
 2. Drag **Anriate.app** onto **Applications**.
 3. Eject the disk image and open Anriate from Applications.
 
-These beta builds are ad-hoc signed and have not been notarized by Apple. macOS may block the first launch because it cannot verify the developer. If you trust this download, attempt to open it, then follow Apple's **System Settings → Privacy & Security → Open Anyway** instructions: https://support.apple.com/en-gb/102445. Do not disable Gatekeeper globally. A future Developer ID-signed and notarized release can remove this extra installation step.
+For releases marked **Developer ID signed and notarized**, open the app normally. macOS may show the standard confirmation that the app was downloaded from the internet. The notarization ticket is attached to both the app and disk image for offline verification.
+
+The original **0.1.0-beta.1** release was ad-hoc signed and was not notarized. It may require Apple's **System Settings → Privacy & Security → Open Anyway** procedure: https://support.apple.com/en-gb/102445. Prefer a newer notarized release when available. Do not disable Gatekeeper globally.
 
 To update, quit Anriate and replace its copy in Applications. To uninstall, remove Anriate.app. Your `.riri` projects and recovery copies are separate and remain intact.
 
