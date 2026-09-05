@@ -1,6 +1,6 @@
 # Install Anriate
 
-Download the installer for your computer from the release's **Assets** list. You do not need Rust or a development environment. GitHub's automatically generated “Source code” archives are for developers; choose an Anriate installer instead.
+Download the installer for your computer from the release's **Assets** list. You do not need Rust or a development environment. GitHub's automatically generated “Source code” archives in the downloads repository contain documentation, not the application; choose an Anriate installer instead.
 
 ## macOS
 
@@ -36,7 +36,7 @@ Try **Examples → Bouncing ball** or **Skinned limb · IK study**. Save editabl
 
 PNG/TIFF stills and image sequences work without extra software. MP4/WebM export additionally requires **ffmpeg**. Install it separately and choose its executable under **Inspector → Output → Video encoder**, or add it to PATH. It is not bundled with these installers.
 
-The native project format preserves exact authoring data. GLB transfers the supported geometry, animation and skinning subset. See this download repository's README for the supported beta scope.
+The native project format preserves exact authoring data. GLB transfers the supported geometry, animation and skinning subset. See the [downloads page](https://github.com/Sam-Friedman/Anriate-downloads) for the beta's scope and limitations.
 
 ## Download integrity
 
